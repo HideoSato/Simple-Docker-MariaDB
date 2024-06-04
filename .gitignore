@@ -1,0 +1,8 @@
+# Docker volumes
+/MariaDB/data/
+
+# Environment configuration
+.env
+
+# OS specific
+.DS_Store
